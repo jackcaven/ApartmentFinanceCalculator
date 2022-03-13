@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ApartmentFinanceCalculatorClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ApartmentFinanceCalculatorClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApartmentFinanceCalculatorClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApartmentFinanceCalculatorClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ApartmentFinanceCalculatorClassLibrary/ApartmentFinanceCalculatorClassLibrary.csproj",
+      "msbuildProject": "../ApartmentFinanceCalculatorClassLibrary/ApartmentFinanceCalculatorClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ApartmentFinanceCalculatorClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jackcaven/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/ApartmentFinanceCalculator.csproj",
+      "projectName": "ApartmentFinanceCalculator",
+      "projectPath": "/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/ApartmentFinanceCalculator.csproj",
+      "packagesPath": "/Users/jackcaven/.nuget/packages/",
+      "outputPath": "/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/jackcaven/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculatorClassLibrary/ApartmentFinanceCalculatorClassLibrary.csproj": {
+              "projectPath": "/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculatorClassLibrary/ApartmentFinanceCalculatorClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

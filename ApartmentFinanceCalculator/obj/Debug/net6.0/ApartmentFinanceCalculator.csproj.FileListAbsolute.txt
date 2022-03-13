@@ -1,0 +1,17 @@
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.csproj.AssemblyReference.cache
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.AssemblyInfoInputs.cache
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.AssemblyInfo.cs
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.csproj.CoreCompileInputs.cache
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.dll
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/refint/ApartmentFinanceCalculator.dll
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.pdb
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculator.deps.json
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculator.runtimeconfig.json
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculator.dll
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculator.pdb
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculatorClassLibrary.dll
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/bin/Debug/net6.0/ApartmentFinanceCalculatorClassLibrary.pdb
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.csproj.CopyComplete
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ApartmentFinanceCalculator.genruntimeconfig.cache
+/Users/jackcaven/Documents/GitHub/ApartmentFinanceCalculator/ApartmentFinanceCalculator/obj/Debug/net6.0/ref/ApartmentFinanceCalculator.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ApartmentFinanceCalculator/1.0.0": {
+        "dependencies": {
+          "ApartmentFinanceCalculatorClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ApartmentFinanceCalculator.dll": {}
+        }
+      },
+      "ApartmentFinanceCalculatorClassLibrary/1.0.0": {
+        "runtime": {
+          "ApartmentFinanceCalculatorClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApartmentFinanceCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApartmentFinanceCalculatorClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
